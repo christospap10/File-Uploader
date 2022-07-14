@@ -1,6 +1,1 @@
-# File-Uploader-
-# File-Uploader
-# File-Uploader
-# File-Uploader
-# File-Uploader
-# File-Uploader
+# File-Uploader with Typescript and React
